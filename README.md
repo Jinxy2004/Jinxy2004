@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Jinxy2004
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Email
+Hi, I'm Gerard Hill you can reach me at gerardbhill@yahoo.com
 
 <!---
 Jinxy2004/Jinxy2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
